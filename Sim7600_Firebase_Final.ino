@@ -5,7 +5,7 @@
 #define GSM_PIN "" 
 
 // APN configuration for GPRS connection
-const char apn[] = "gpinternet";
+const char apn[] = "YOUR_APN"; // SIM APN
 const char gprsUser[] = "";   // GPRS username (if needed)
 const char gprsPass[] = "";   // GPRS password (if needed)
 
