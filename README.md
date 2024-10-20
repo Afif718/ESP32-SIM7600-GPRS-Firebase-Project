@@ -32,7 +32,7 @@ This project demonstrates using an ESP32 and SIM7600 4G module to connect to a G
 
 2. **Software Setup:**
    - Install the Arduino IDE if not already installed.
-   - Add the ESP32 board to the Arduino IDE by following [these instructions](https://github.com/espressif/arduino-esp32#installation-instructions).
+   - Add the ESP32 board to the Arduino IDE.
    - Install the required libraries listed in the Requirements section.
    - Open the project code in the Arduino IDE.
 
@@ -58,6 +58,5 @@ This project demonstrates using an ESP32 and SIM7600 4G module to connect to a G
 ## Notes
 - Make sure your SIM card has internet access and the correct APN settings.
 - Firebase authentication is required for the project to interact with the database.
-- Do not hardcode sensitive information (like API keys and passwords) in production.
 
 
